@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danijel.
 - 🔭 I’m a senior full-stack software engineer and freelancing now
-- 🌱 I’m currently learning Hybrid Mobile Solutions integrated with Mobile native Languages
+- 🌱 My main skills are Node, React, Vue, .NET and other JS&PHP frameworks. I am familiar with docker, AWS, Azure, GCP and third-party services.
 - 💬 Ask me about **how to build the high-performance web service**.
 
 ### 🏆 GitHub Profile Trophy:
